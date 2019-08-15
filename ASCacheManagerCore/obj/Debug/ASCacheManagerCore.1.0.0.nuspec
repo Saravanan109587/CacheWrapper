@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ASCacheManagerCore</id>
+    <version>1.0.0</version>
+    <authors>Saravanan N</authors>
+    <owners>Saravanan N</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.net standard 2.0 version of Wrapper dll for redise cache</description>
+    <copyright>payoda.com</copyright>
+    <tags>c#,Redis</tags>
+    <repository type="github.com" url="github.com" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="ASLogger" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="ServiceStack.Redis.Core" version="5.6.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Others\ASCacheManager\ASCacheManager\bin\Debug\netstandard2.0\CacheManagerCore.dll" target="lib\netstandard2.0\CacheManagerCore.dll" />
+  </files>
+</package>

@@ -1,0 +1,9 @@
+D:\Others\ASCacheManager\ASCacheManager\bin\Debug\netstandard2.0\ASCacheManager.deps.json
+D:\Others\ASCacheManager\ASCacheManager\bin\Debug\netstandard2.0\ASCacheManager.dll
+D:\Others\ASCacheManager\ASCacheManager\bin\Debug\netstandard2.0\ASCacheManager.pdb
+D:\Others\ASCacheManager\ASCacheManager\obj\Debug\netstandard2.0\ASCacheManager.csprojAssemblyReference.cache
+D:\Others\ASCacheManager\ASCacheManager\obj\Debug\netstandard2.0\ASCacheManager.csproj.CoreCompileInputs.cache
+D:\Others\ASCacheManager\ASCacheManager\obj\Debug\netstandard2.0\ASCacheManager.AssemblyInfoInputs.cache
+D:\Others\ASCacheManager\ASCacheManager\obj\Debug\netstandard2.0\ASCacheManager.AssemblyInfo.cs
+D:\Others\ASCacheManager\ASCacheManager\obj\Debug\netstandard2.0\ASCacheManager.dll
+D:\Others\ASCacheManager\ASCacheManager\obj\Debug\netstandard2.0\ASCacheManager.pdb

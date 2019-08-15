@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ASCachemanager</id>
+    <version>1.0.0</version>
+    <title>As Cache manager</title>
+    <authors>Saravanan Natarajan</authors>
+    <owners>Saravanan Natarajan</owners>
+    <licenseUrl>http://github.com</licenseUrl>
+    <projectUrl>http://github.com</projectUrl>
+    <iconUrl>http://github.com</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is .net 4.7.2 wrapper dll for redis cache</description>
+    <releaseNotes> </releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>C# Redis</tags>
+	<dependencies>
+    <dependency id="ASLogger" version="1.0.0.0" />
+    <dependency id="ServiceStack.Redis" version="5.0.0.0"/>
+</dependencies>
+ 
+  </metadata>
+</package>

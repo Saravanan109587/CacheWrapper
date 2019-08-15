@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Saravanan N</Authors>
+    <Company>Payoda Technologies pve Ltd</Company>
+    <Product>Alternative soft</Product>
+    <Description>.net standard 2.0 version of Wrapper dll for redise cache</Description>
+    <Copyright>payoda.com</Copyright>
+    <PackageLicenseUrl>open source</PackageLicenseUrl>
+    <PackageProjectUrl>github.com</PackageProjectUrl>
+    <PackageIconUrl>github.com</PackageIconUrl>
+    <RepositoryUrl>github.com</RepositoryUrl>
+    <RepositoryType>github.com</RepositoryType>
+    <PackageTags>c#,Redis</PackageTags>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageId>ASCacheManagerCore</PackageId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ASLogger" Version="1.0.0" />
+    <PackageReference Include="ServiceStack.Redis.Core" Version="5.6.0" />
+  </ItemGroup>
+
+</Project>
